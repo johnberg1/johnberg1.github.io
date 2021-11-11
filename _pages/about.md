@@ -15,7 +15,7 @@ My research at KUIS AI Lab is focused on Machine Learning, Computer Vision and N
 
 ### Research Experience
 - **KUIS AI Center** - *Graduate Researcher*
-My research interests lie in the intersection of Computer Vision and Natural Language Processing. Specifically, I am working on Language Guided Image Generation and Manipulation at KUIS AI Center.
+    - My research interests lie in the intersection of Computer Vision and Natural Language Processing. Specifically, I am working on Language Guided Image Generation and Manipulation at KUIS AI Center.
 
 ### Teaching Experience
 - **Koç University** - *Teaching Assistant* 
