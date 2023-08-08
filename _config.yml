@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Canberk Baykal"
 title_separator          : "-"
 name                     : &name "Canberk Baykal"
-description              : &description "MSc. Student at Koç University"
+description              : &description "AI Researcher at KUIS AI Center"
 url                      : https://johnberg1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "johnberg1.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Canberk Baykal"
   avatar           : "profile.jpg"
-  bio              : "AI Researcher at KUIS AI Center\n MSc. student at Koç University"
+  bio              : "AI Researcher at KUIS AI Center"
   location         : "Istanbul"
   employer         :
   pubmed           : 
