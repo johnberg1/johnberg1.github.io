@@ -86,7 +86,7 @@ author:
   location         : "Istanbul"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=wT9bTMwAAAAJ&hl=tr&oi=sra"
   email            : "abaykal20@ku.edu.tr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
