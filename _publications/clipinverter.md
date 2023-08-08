@@ -3,7 +3,7 @@ title: "CLIP-Guided StyleGAN Inversion for Text-Driven Real Image Editing"
 collection: publications
 permalink: /publication/clipinverter
 excerpt: 'CLIP-Guided StyleGAN Inversion for Text-Driven Real Image Editing'
-date: 2009-10-01
+date: 2023-07-19
 venue: 'Acm Transactions on Graphics'
 paperurl: 'https://dl.acm.org/doi/10.1145/3610287'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
