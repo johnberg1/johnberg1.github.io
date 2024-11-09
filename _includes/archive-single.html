@@ -1,5 +1,9 @@
 {% include base_path %}
 
+<div class="header-image">
+  <img src="{% if post.header_image %}{{ post.header_image | prepend: base_path }}{% else %}{{ base_path }}/assets/images/default-header.jpg{% endif %}" alt="Publication Header" style="width:100%; height:auto;">
+</div>
+
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -59,6 +63,8 @@
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
+
+    <hr class="post-divider">
 
   </article>
 </div>

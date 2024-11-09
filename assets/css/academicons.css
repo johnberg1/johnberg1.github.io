@@ -325,3 +325,11 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.post-divider {
+  border: none;
+  border-top: 1px solid #38b5de;
+  margin: 30px 0;
+  height: 10px;
+  border-bottom: 1px solid #38b5de;
+  background: linear-gradient(to right, transparent, #38b5de, transparent); /* Gradient effect */
+}

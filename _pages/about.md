@@ -15,7 +15,7 @@ I am part of the [Cambridge Open Reality and Visual AI Laboratory (CORE LAB)](ht
 
 ### Research Experience
 - **Cambridge Open Reality and Visual AI Laboratory (CORE LAB)** - *PhD Researcher*
-    - My current research interests lie in 3D Computer Vision, including text-guided 3D generation and manipulation.
+    - My current research interests lie in 3D Computer Vision, including 3D capture and reconstruction.
 - **KUIS AI Center** - *Graduate Researcher*
     - Focused at the intersection of Computer Vision and Natural Language Processing. Specifically, I worked on Language Guided Image Generation and Manipulation at KUIS AI Center.
 
