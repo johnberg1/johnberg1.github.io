@@ -1,27 +1,37 @@
 ---
+layout: about
+title: about
 permalink: /
-title: "Canberk Baykal"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: >
+  PhD Student, <a href="https://www.cst.cam.ac.uk/" target="_blank">University of Cambridge</a> &bull;
+  <a href="https://core-lab.io" target="_blank">CORE Lab</a>
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>Computer Laboratory</p>
+    <p>University of Cambridge</p>
+    <p>Cambridge, UK</p>
+    <p><a href="mailto:acb228@cam.ac.uk">acb228@cam.ac.uk</a></p>
+
+selected_papers: true
+social: true
+
+announcements:
+  enabled: false
+
+latest_posts:
+  enabled: false
 ---
 
-Hello. My name is Ahmet Canberk Baykal. I am a PhD student in Computer Science and an AI Researcher at University of Cambridge. Previously, I was a Graduate Researcher at and M.Sc. student [KUIS AI Center](https://ai.ku.edu.tr/){:target="_blank"}. I have obtained my B.Sc. degree from Bilkent University, Electrical and Electronics Engineering Department and my M.S. degree from Koç University, Computer Science and Engineering.
+Hello! I am **Ahmet Canberk Baykal**, a PhD student in Computer Science at the [University of Cambridge](https://www.cst.cam.ac.uk/){:target="_blank"}. I am part of the [Cambridge Open Reality and Visual AI Laboratory (CORE Lab)](https://core-lab.io){:target="_blank"}, supervised by [Prof. Cengiz Öztireli](https://sites.google.com/view/cengiz-oztireli-intro/home){:target="_blank"}.
 
-I am part of the [Cambridge Open Reality and Visual AI Laboratory (CORE LAB)](https://core-lab.io){:target="_blank"}, under supervision of [Prof. Cengiz Öztireli](https://www.cl.cam.ac.uk/~aco41/){:target="_blank"}. My research is focused at 3D Computer Vision. Previously, at KUIS AI Center, I worked on Machine Learning, Computer Vision and Natural Language Processing, specifically Text-Guided Image Generation and Manipulation. I was co-advised by [Prof. Aykut Erdem](https://aykuterdem.github.io/){:target="_blank"} and [Prof. Deniz Yuret](http://www.denizyuret.com/){:target="_blank"} and I also worked closely with [Prof. Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/){:target="_blank"} from Hacettepe University and [Dr. Duygu Ceylan](https://www.duygu-ceylan.com/){:target="_blank"} from Adobe Research.
+My research focuses on **3D Computer Vision**, including 3D capture, reconstruction, and generative models for visual content. I am also broadly interested in image generation and editing, and natural language processing.
 
+Previously, I was a Graduate Researcher at [KUIS AI Center](https://ai.ku.edu.tr/){:target="_blank"}, Koç University, where I worked on language-guided image generation and manipulation, co-advised by [Prof. Aykut Erdem](https://aykuterdem.github.io/){:target="_blank"} and [Prof. Deniz Yuret](http://www.denizyuret.com/){:target="_blank"}. I obtained my B.Sc. from Bilkent University (Electrical and Electronics Engineering) and my M.Sc. from Koç University (Computer Science and Engineering, GPA: 4.00/4.00).
 
-### Research Experience
-- **Cambridge Open Reality and Visual AI Laboratory (CORE LAB)** - *PhD Researcher*
-    - My current research interests lie in 3D Computer Vision, including 3D capture and reconstruction.
-- **KUIS AI Center** - *Graduate Researcher*
-    - Focused at the intersection of Computer Vision and Natural Language Processing. Specifically, I worked on Language Guided Image Generation and Manipulation at KUIS AI Center.
+I received my PhD funding through the **Cambridge Trust & Computer Science Premium Scholarship** (2023–2026).
 
-### Teaching Experience
-- **Koç University** - *Teaching Assistant* 
-    - COMP106 - Discrete Mathematics for Computer Science and Engineering (Fall 2020, Fall 2021)
-    - COMP547 - Deep Unsupervised Learning (Spring 2021, Spring 2022)
-    - COMP202 - Data Structures and Algorithms (Fall 2022)
-    - COMP527 - Computational Imaging (Spring 2023)
+Feel free to reach out if you'd like to collaborate or chat about research!
