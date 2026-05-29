@@ -136,11 +136,7 @@
       "startDate": "2016-09-01",
       "endDate": "2020-06-01",
       "score": "3.70 / 4.00",
-      "courses": [
-        "Introduction to Machine Learning",
-        "Artificial Intelligence",
-        "Neural Networks"
-      ],
+      "courses": ["Introduction to Machine Learning", "Artificial Intelligence", "Neural Networks"],
       "highlights": ["CGPA: 3.70 / 4.00", "Bilkent University Comprehensive Scholarship (100% tuition)"]
     }
   ],
