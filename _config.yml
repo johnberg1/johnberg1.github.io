@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: computer vision, computer graphics, 3D reconstruction, deep learning, PhD
 lang: en
-icon: ⚛️
+icon: user-astronaut-solid-full.svg
 
 url: https://johnberg1.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
